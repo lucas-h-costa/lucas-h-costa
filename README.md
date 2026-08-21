@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I am Lucas H. M. Costa</h1>
+<h1 align="center">Hi, I am Lucas Costa</h1>
 
 I am a student at Universidade Federal de Viçosa (UFV) developing software engineering solutions for geospatial, hydrographic, and embedded systems applications. My research and development focus includes acoustic positioning, autonomous surface vehicles (ASVs), single-beam and multibeam echo sounders, and hydrographic data interoperability standards such as IHO S-100. I have practical experience with satellite imagery processing using neural networks, QGIS plugin development such as EasyPlanning, WebGIS platforms, and serial communication routines for RS-232, RS-485, NMEA 0183, and NMEA 2000 standards using microcontrollers like the ESP32.
 
