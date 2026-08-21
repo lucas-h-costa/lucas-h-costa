@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **lucas-h-costa/lucas-h-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi, I am Lucas H. Costa 👋</h1>
+
+I am a student at Universidade Federal de Viçosa (UFV) developing software engineering solutions for geospatial, hydrographic, and embedded systems applications. My research and development focus includes acoustic positioning, autonomous surface vehicles (ASVs), single-beam and multibeam echo sounders, and hydrographic data interoperability standards such as IHO S-100. I have practical experience with satellite imagery processing using neural networks, QGIS plugin development such as EasyPlanning, WebGIS platforms, and serial communication routines for RS-232, RS-485, NMEA 0183, and NMEA 2000 standards using microcontrollers like the ESP32.
+
+In my workflow, I utilize specialized languages and tools for data analysis and interface creation. My main development stack is structured in Python, applying libraries such as Tkinter, CustomTkinter, and Streamlit for graphical user interfaces, alongside GDAL, Rasterio, Shapely, and Folium for geospatial data manipulation, as well as Keras and TensorFlow for deep predictive modeling. In addition to software development, I work as a technical instructor for hydrographic surveys, data communication networks, and hardware diagnostics.
+
+To contact me regarding projects, academic research, or geospatial tool development, send a message to lucas.h.costa@ufv.br or dacosta.lhm@gmail.com.
