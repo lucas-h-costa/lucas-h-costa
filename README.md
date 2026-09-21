@@ -1,42 +1,17 @@
-<h1 align="center">Hi, I am Lucas Costa</h1>
+ <h1 align="center">Hi, I am Lucas Costa</h1>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="image_497e46.png" width="220" alt="Lucas Costa">
-      </td>
-      <td>
-        <pre>
-lucascosta@github
------------------
-OS: Geomatics Engineering Student @ UFV
-Focus: Software Eng. (Geospatial, Hydrographic, Embedded)
-Research: Acoustic Positioning, ASVs, Echo Sounders, IHO S-100
-Experience: Satellite Imagery (NNs), QGIS Plugins, WebGIS, ESP32
-Stack: Python, GDAL, Rasterio, Shapely, Folium, Keras, TensorFlow
-Tools: Git, Conda, OSGeo Shell, VS Code, Tkinter, Streamlit
-Workflow: Tech Instructor, Hydrographic Surveys, Hardware Diag.
-Contact: lucas.h.costa@ufv.br | dacosta.lhm@gmail.com
 
-🔴 🟠 🟡 🟢 🔵 🟣 ⚪</pre>
-      </td>
-    </tr>
-  </table>
-</div>
+I am a geomatics engineering student at Universidade Federal de Viçosa (UFV) developing software engineering solutions for geospatial, hydrographic, and embedded systems applications. My research and development focus includes acoustic positioning, autonomous surface vehicles (ASVs), single-beam and multibeam echo sounders, and hydrographic data interoperability standards such as IHO S-100. I have practical experience with satellite imagery processing using neural networks, QGIS plugin development such as EasyPlanning, WebGIS platforms, and serial communication routines for RS-232, RS-485, NMEA 0183, and NMEA 2000 standards using microcontrollers like the ESP32.
 
-<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GDAL-555555?style=for-the-badge" alt="GDAL" />
-  <img src="https://img.shields.io/badge/Rasterio-555555?style=for-the-badge" alt="Rasterio" />
-  <img src="https://img.shields.io/badge/Tkinter-555555?style=for-the-badge" alt="Tkinter" />
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GDAL](https://img.shields.io/badge/GDAL-555555?style=for-the-badge) ![Rasterio](https://img.shields.io/badge/Rasterio-555555?style=for-the-badge) ![Tkinter](https://img.shields.io/badge/Tkinter-555555?style=for-the-badge)
+
+
+In my workflow, I utilize specialized languages and tools for data analysis and interface creation. My main development stack is structured in Python, applying libraries such as Tkinter, CustomTkinter, and Streamlit for graphical user interfaces, alongside GDAL, Rasterio, Shapely, and Folium for geospatial data manipulation, as well as Keras and TensorFlow for deep predictive modeling. All versioning and development environments are strictly managed through Git, Conda, OSGeo Shell, and VS Code. In addition to software development, I work as a technical instructor for hydrographic surveys, data communication networks, and hardware diagnostics.
+
+
+To contact me regarding projects, academic research, or geospatial tool development, send a message to lucas.h.costa@ufv.br or dacosta.lhm@gmail.com.
+
+
+
+minha foto de perfil está em anexo, use-a como se fosse o logo da distro no fetch 
